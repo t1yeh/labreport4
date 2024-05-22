@@ -1,8 +1,9 @@
-###1.
-####2.
-####3.
-####4.
-####4.
-####5.
-####6.
-####7.
+### 4. Connecting to SSH ###
+### 5. Repo Cloning ###
+### 6. Test Failing ###
+
+### 7. Editing Code File ###
+
+### 8. Test Passing ###
+
+### 9. Commit ###
