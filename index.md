@@ -1,9 +1,9 @@
 ### 4. Connecting to SSH ###
 ### 5. Repo Cloning ###
 ### 6. Test Failing ###
-Screenshot 2024-05-15 054946.png
+![image](Screenshot 2024-05-15 054946.png)
 ### 7. Editing Code File ###
-Screenshot 2024-05-15 055037.png
+![image](Screenshot 2024-05-15 055037.png)
 ### 8. Test Passing ###
 
 ### 9. Commit ###
