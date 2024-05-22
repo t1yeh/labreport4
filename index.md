@@ -32,6 +32,7 @@ I pressed every key required to be able to run the test <br>
 ### 9. Commit ###
 ![image](Screenshot%202024-05-15%20055203.png)
 I pressed the keys needed to add the modified file and commit <br>
-```git add -a```
+```git add .```
 ```git commit```
-```wq```
+```:wq```
+```git push```
