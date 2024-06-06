@@ -9,12 +9,12 @@ I pressed every key required to be able to git clone the ssh url <br>
 ```git clone``` ```<ctrl> v```(copy and paste of ssh url) ```<enter>``` <br>
 
 ### 6. Test Failing ###
-![image](Screenshot%202024-06-05%20152418.png)
+![image](Screenshot%202024-06-05%20152418.png) <br>
 I pressed every key required to be able to run the test <br>
 ```bash test.sh``` ```<enter>``` <br>
 
 ### 7. Editing Code File ###
-![image](Screenshot%202024-05-15%20055037.png)
+![image](Screenshot%202024-05-15%20055037.png) <br>
 1 ```/x```, ```<enter>```, 1 ```N```, 1 ```r2```, 1 ```<escape>```, 1 ```:wq``` <br>
 ```/x``` was to find every word containing X
 ```<enter>``` send query
@@ -25,7 +25,7 @@ I pressed every key required to be able to run the test <br>
 ```:wq``` save and leave
 
 ### 8. Test Passing ###
-![image](Screenshot%202024-05-15%20054756.png)
+![image](Screenshot%202024-05-15%20054756.png) <br>
 I pressed every key required to be able to run the test <br>
 ```bash test.sh``` ```<enter>```  <br>
 
