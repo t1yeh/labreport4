@@ -9,7 +9,7 @@ I pressed every key required to be able to git clone the ssh url <br>
 ```git clone``` ```<ctrl> v```(copy and paste of ssh url) <br>
 
 ### 6. Test Failing ###
-![image](Screenshot%202024-05-15%20054946.png)
+![image](Screenshot%202024-06-05%20152418.png)
 I pressed every key required to be able to run the test <br>
 ```bash test.sh``` ```<enter>``` <br>
 
